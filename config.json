@@ -1,0 +1,30 @@
+{
+  "forceUpdate": true,
+  "ExpiredDate": "2025/11/22 02:20",
+  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
+  "buttonText": " DOWNLOAD ",
+  "buttonUrl": "https://telegram.me/NikuuOfficial",
+  "cancelButtonText": "Close",
+  "appListButton": {
+    "iconUrl1": "",
+    "iconUrl2": ""
+  },
+  "epicList": [
+    {
+      "iconUrl": "https://i.supaimg.com/5fb3b54d-e0a1-4ad4-96c6-67df07b06f36/425bbda4-01d1-4d9b-a730-9055eb3b2159.jpg",
+      "url": "https://telegram.me/NikuuOfficial"
+    },
+    {
+      "iconUrl": "https://bit.ly/itshehzadaProfile",
+      "url": ""
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "url": ""
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "url": ""
+    }
+  ]
+}
